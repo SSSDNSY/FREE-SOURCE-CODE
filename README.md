@@ -1,7 +1,7 @@
 # IMI-SOURCE-CODE
  mine source code  for everyont who want
  
-| FILE|文件        | DESCRIPTION说明   | 
+|  FILE文件 | DESCRIPTION说明   | 
 | -----  | -------:  |
 | 20190411153543chromecj.com.crx     | vue谷歌浏览器插件 |   
 | webpack-vue.7z        |   webpack初始化vue-项目   |
