@@ -1,5 +1,5 @@
 # IMI-SOURCE-CODE
- mine source code  for everyont who want
+ mine source code  for anyone who want
  
 |  FILE文件 | DESCRIPTION说明   | 
 | -----  | -------:  |
