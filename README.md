@@ -10,5 +10,7 @@
 | coolapkRelease-.apk       |    autojs软件apk     |
 | imiTest.7z     |    小程序图片文件和canvas处理代码片段     |
 | vue-movie.7z   |        vue入门小项目-热门电影                 | 
+| app1.7z  |        beego 入门写的博客小项目 (鸣谢 无闻大神)                 | 
+ 
 ### License
 [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/Ezoio/jigsaw/blob/master/LICENSE)
