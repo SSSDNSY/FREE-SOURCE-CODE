@@ -20,7 +20,8 @@
 | calculator.7z    |        vue入门小项目-计算器                 | 
 | vue-weather.7z   |        vue入门小项目-天气APP            | 
 |dino-game.html    |     谷歌断网页面的小恐龙游戏（source code from chrome offline page）
- 
+|log4jbug-0.0.1-SNAPSHOT.jar    |    log4j漏洞（log4j security bug）
+
 ## Example
 ![image](https://raw.githubusercontent.com/SSSDNSY/IMI-SOURCE-CODE/master/QQ%E6%88%AA%E5%9B%BE20200711172422.png)
 ![image](https://raw.githubusercontent.com/SSSDNSY/IMI-SOURCE-CODE/master/QQ%E6%88%AA%E5%9B%BE20200711172431.png)
