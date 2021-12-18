@@ -21,7 +21,7 @@
 | vue-weather.7z   |        vue入门小项目-天气APP            | 
 |dino-game.html    |     谷歌断网页面的小恐龙游戏（source code from chrome offline page）
 |log4jbug-0.0.1-SNAPSHOT.jar    |    log4j漏洞（log4j security bug）
-
+|ALI213-Assassins.Creed.Odyssey.v1.0.2.v1.5.4.Plus.26.Trainer.rar | 刺客信条奥德赛修改器（Assassins.Creed.Odyssey Cracker）
 ## Example
 ![image](https://raw.githubusercontent.com/SSSDNSY/IMI-SOURCE-CODE/master/QQ%E6%88%AA%E5%9B%BE20200711172422.png)
 ![image](https://raw.githubusercontent.com/SSSDNSY/IMI-SOURCE-CODE/master/QQ%E6%88%AA%E5%9B%BE20200711172431.png)
