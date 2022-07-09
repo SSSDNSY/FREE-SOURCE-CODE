@@ -1,5 +1,5 @@
 # IMI-SOURCE-CODE
- mine source code  for anyone who want
+  source or code  for anyone who want
  
 
 ## Stargazers over time
