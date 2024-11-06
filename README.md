@@ -26,12 +26,6 @@
 |技术类的PDF书籍 | https://github.com/mynane/PDF
 
 
-## Example
-![image](https://raw.githubusercontent.com/SSSDNSY/IMI-SOURCE-CODE/master/QQ%E6%88%AA%E5%9B%BE20200711172422.png)
-![image](https://raw.githubusercontent.com/SSSDNSY/IMI-SOURCE-CODE/master/QQ%E6%88%AA%E5%9B%BE20200711172431.png)
-![image](https://user-images.githubusercontent.com/15624361/134755694-707dc6dc-ece1-41ef-a179-2fcc1bf3f582.png)
-
-
 ### License
 [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/Ezoio/jigsaw/blob/master/LICENSE)
 
