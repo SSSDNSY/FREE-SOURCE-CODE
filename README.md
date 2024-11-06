@@ -27,5 +27,5 @@
 
 
 ### License
-[![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](LICENSE)
+[![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/SSSDNSY/jigsaw/blob/master/LICENSE)
 
