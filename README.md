@@ -25,6 +25,9 @@
 |ja-netfilter2.0.1.zip| Idea2022破解jar包（ja-netfilter Cracker jar）
 |技术类的PDF书籍 | https://github.com/mynane/PDF
 |IntelliJ IDEA热部署工具jRebel 破解工具 IntelliJ IDEA'plugin jRebel crack tool proxy | ReverseProxy_windows_amd64.7z
+|crawler_multThread.py | 多线程爬虫
+|crawler.py | 网页爬虫
+|doc.txt | 爬虫配置
 
 
 ### License
